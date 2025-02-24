@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "136070198634",
+    "firebase_url": "https://uberclone-18d9f-default-rtdb.firebaseio.com",
+    "project_id": "uberclone-18d9f",
+    "storage_bucket": "uberclone-18d9f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136070198634:android:5d82a4347134e4e28de113",
+        "android_client_info": {
+          "package_name": "com.dev.boozin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "136070198634-gonqht2814n0grvo15sfpnfe63sllgms.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvHNd1a-t_b6IZtPmghoMZ3CreUoM3fxc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "136070198634-gonqht2814n0grvo15sfpnfe63sllgms.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
